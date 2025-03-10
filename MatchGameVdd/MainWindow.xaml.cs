@@ -44,7 +44,7 @@ public partial class MainWindow : Window
             int index = random.Next(animalEmoji.Count);
             string nextEmoji = animalEmoji[index];
             textBlock.Text = nextEmoji;
-            animalEmoji.RemoveAt(index);//opa
+            animalEmoji.RemoveAt(index);
         }
     }
 
