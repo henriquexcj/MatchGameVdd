@@ -18,3 +18,4 @@ C:\Users\henri\source\repos\MatchGameVdd\MatchGameVdd\obj\Debug\net8.0-windows\r
 C:\Users\henri\source\repos\MatchGameVdd\MatchGameVdd\obj\Debug\net8.0-windows\MatchGameVdd.pdb
 C:\Users\henri\source\repos\MatchGameVdd\MatchGameVdd\obj\Debug\net8.0-windows\MatchGameVdd.genruntimeconfig.cache
 C:\Users\henri\source\repos\MatchGameVdd\MatchGameVdd\obj\Debug\net8.0-windows\ref\MatchGameVdd.dll
+C:\Users\henri\source\repos\MatchGameVdd\MatchGameVdd\obj\Debug\net8.0-windows\MatchGameVdd.sourcelink.json
